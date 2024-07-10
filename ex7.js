@@ -3,3 +3,4 @@ function mediaNota(){
     let media = (a + b + c) / 3
     alert(media)
 }
+mediaNota()
